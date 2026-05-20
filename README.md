@@ -66,7 +66,7 @@ Por ser uma aplicação <strong>Blazor WebAssembly</strong>, o projeto foi publi
 <ul>
   <li>
     <strong>GitHub Pages</strong> — 
-    <a href="https://dalieneroque.github.io/Portifolio/" target="_blank">
+    <a href="https://dalieneroque.github.io/" target="_blank">
       Acessar Portfólio Online
     </a>
   </li>
