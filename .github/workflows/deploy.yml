@@ -24,9 +24,6 @@ jobs:
     - name: Publish with dotnet
       run: dotnet publish --configuration Release --output build
       
-    - name: Change base tag 
-      run: sed -i 's/<base href="\/" \/>/<base href="\/Portifolio\/" \/>/g' build/wwwroot/index.html
-      
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
