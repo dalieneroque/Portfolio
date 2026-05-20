@@ -1,7 +1,7 @@
 {
-  "mainAssemblyName": "dalieneroque.github.io",
+  "mainAssemblyName": "Portifolio",
   "resources": {
-    "hash": "sha256-YAtkyKagBb8FAdjc1cwlYjq2OL4D2rR63D9XRw6QPk4=",
+    "hash": "sha256-4Gv/7hV1zQXUsEr6RqPXT6G6QZkRWisAmQnOEn/6aVk=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-sn/g61GjVPhViOYQDkq1OMlk0eyS9r2Hi0qgU2o0HIU="
     },
@@ -47,7 +47,7 @@
       "System.Text.Json.wasm": "sha256-2uX7GxTvQ2oMynwAqZJOjTeb1uKdNYBmq3GqVrd3XzY=",
       "System.Text.RegularExpressions.wasm": "sha256-6lTM5rK99dTveKD7N9enrJEr67CxhLZgBg3Jkk0mIgo=",
       "System.Private.CoreLib.wasm": "sha256-VhBNshbJCal/RRgyQgl+2UDFFoZ+VMrc22Ea/QYDVy0=",
-      "dalieneroque.github.io.wasm": "sha256-DzeV1cPkcv8RoFoObMJ0zaUXecg/hjp6rbv573v4tO8="
+      "Portifolio.wasm": "sha256-lQfFj0nx0zQyGYWVotz45sQK2kv8AhkhWq+xu7d4fN8="
     }
   },
   "cacheBootResources": true,
