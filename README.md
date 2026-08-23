@@ -87,7 +87,7 @@ Desenvolvedora com foco em Backend .NET, sempre buscando evolução contínua e 
 
 Contatos
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logoColor=white)](https://www.linkedin.com/in/daliene-roque-a5b167269/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logoColor=white)](https://www.linkedin.com/in/dalieneroque/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?&logoColor=white)](https://github.com/DalieneRoque)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?&logoColor=white)](https://discord.gg/5EsYDnNDky)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?&logoColor=white)](https://www.youtube.com/channel/UCzS1CS4ll7-4kWyIwYVhz9w)
